@@ -1,0 +1,8 @@
+body {
+    background-color: rgb(23, 23, 23);
+    color: white;
+}
+
+table, td, th {
+    border: 1px solid white;
+}
